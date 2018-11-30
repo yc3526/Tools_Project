@@ -20,3 +20,6 @@ After we finish image recognition process, we now have input numbers given by th
 **Create GUI interface:**  
 ???
 
+Run Instructions
+-----
+To start with, users can either upload an image of the initial table or manually type numbers of the initial table into the user interface. By clicking “Solve Sudoku problem now!”, our software automatically hands back the rightful final table in the blink of eyes.
