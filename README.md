@@ -1,5 +1,4 @@
 ![](https://github.com/yc3526/Tools_Project/raw/master/group_icon.jpg)
-
 Sudoku Solver
 =====
 Group Name and Section
