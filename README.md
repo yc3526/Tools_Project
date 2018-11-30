@@ -1,4 +1,4 @@
-![](https://github.com/yc3626/Tools_Project/raw/master/group icon.jpg)
+![](https://github.com/yc3626/Tools_Project/raw/master/group_icon.jpg)
 
 Sudoku Solver
 =====
