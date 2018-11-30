@@ -2,8 +2,8 @@ Sudoku Solver
 =====
 Group Name and Section
 ----
-        Group Name: Sudoku Experts
-        Section: 001
+Group Name: Sudoku Experts
+                Section: 001
 
 What is it?
 ----
