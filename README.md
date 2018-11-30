@@ -3,7 +3,7 @@ Sudoku Solver
 Group Name and Section
 ----
 Group Name: Sudoku Experts
-Section: 001
+    Section: 001
 
 What is it?
 ----
