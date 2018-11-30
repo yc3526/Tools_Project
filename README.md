@@ -37,10 +37,14 @@ Version one:
 2) Run the Suduku_Project_V1.ipynb and wait until a new window open (might cost some time since we need to download the tranning set and train the KNN model). Remember to check whether the new window is already available behind the existing working window.
 3) Access the service with password 0426 (a meaningful number for one of our group member).
 4) Choose to import image by click on "load image" or just manually type numbers of the initial table.
-5) Click the "where amazing happen!" button and wait a few seconds for the final result.
+5) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
+6) Click the "where amazing happen!" button and wait a few seconds for the final result.
+7) If the result output infeasible, then then this Sudoku problem is Wrong(We promised!)
 
 Version two:
 1) Run the Suduku_Project_V2.ipynb and wait until a new window open. Remember to check whether the new window is already available behind the existing working window.
-3) Access the service with password 0426 (a meaningful number for one of our group member).
-4) Choose to import image by click on "load image" or just manually type numbers of the initial table.
+2) Access the service with password 0426 (a meaningful number for one of our group member).
+3) Choose to import image by click on "load image" or just manually type numbers of the initial table.
+4) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
 5) Click the "where amazing happen!" button and wait a few seconds for the final result.
+6) If the result output infeasible, then then this Sudoku problem is Wrong(We promised!)
