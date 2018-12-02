@@ -1,4 +1,4 @@
-sklearn>=0.18.1
+scikit-learn>=0.18.1
 opencv-python>=3.4.3.18
 pyparsing>=2.0.1
 pulp>=1.6.9
