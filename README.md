@@ -17,7 +17,7 @@ Contents?
 We actually have two versions of Image Recognition.
 
 Version one (by KNN trainning on MNIST handwritten digit database):
-Remove all the frames in the image and segment all the digits into 9*9 different boxes. Then build up a K-Nearest Neighbours model to    recognize each digit and convert back to a dataframe.Since the trainning set is handwritten numbers, the accuracy is not very high.
+Remove all the frames in the image and segment all the digits into 9*9 different boxes. Then build up a K-Nearest Neighbours model to    recognize each digit and convert back to a dataframe.Since the trainning set is handwritten numbers, the accuracy is not very high. It's the best we can get.
 
 Version two (by existing package named Sudokuextract):
 Extract number from image by simply applying the pacakge. This version has very high accuracy in OCR.
@@ -37,11 +37,11 @@ Version one:
 1) Clone or downoad the master branch to your own machine.
 2) open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy where you clone the branch. 
 3) download the rar file in googledrive folder "MNIST_Dataset" with the link https://drive.google.com/drive/folders/1YQe0A5pH4Yg1aw2RWtnA0FYLqv0f4Spy?usp=sharing into the same directory and unzip it. Keep on open the unzip file until you see two folder named 'mldata' and 'mnist.pkl', move the two folder into the master branch directory.  
-****Previously this step is not necessary. But when we experimented the code on Dec 12th, the MNIST website broke down due to some unknown reason. So instead we upload the files needed in image recognition to google drive.**** 
-4) Run the Suduku_Project_V1.ipynb and wait until a new window open (might cost some time since we need to download the tranning set and train the KNN model). Remember to check whether the new window is already available behind the existing working window.
+****Previously this step is not necessary. But when we experimented the code on Dec 2nd, the MNIST website broke down due to some unknown reason. So instead of downloading from the orginal website, we upload the files needed for the knn model in image recognition to a google drive.**** 
+4) Run the Suduku_Project_V1.ipynb and wait until a new window open.It might cost some time. Remember to check whether the new window is already available behind the existing working window.
 5) Access the service with password 0426 (a meaningful number for one of our group member).
 6) Choose to import image by click on "load image" or just manually type numbers of the initial table.
-7) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
+7) Image recogniton might cost some time, and when recogniton result is returned, you can check whether recogniton is correct and correct them by hand.
 8) Click the "where amazing happen!" button and wait a few seconds for the final result.
 9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)
 
