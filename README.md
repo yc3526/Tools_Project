@@ -33,7 +33,7 @@ Installation Instructions
 1) Clone the repo
 2) Open the CMD on windows machine or the Terminal application on MAC machine, change the directory into where the repo is locationed.
 typical prompt looks like "cd C:\Users\DELL\Desktop\Tools'
-3) enter the following prompt into the CMD or Terminal allication: pip install -r requirements.txt
+3) enter the following prompt into the CMD or Terminal application: pip install -r requirements.txt
 4) windows machine might have troubles installing scikit-image<0.12.0. But that trouble only affect the version two product.
 
 
