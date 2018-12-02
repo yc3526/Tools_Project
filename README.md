@@ -39,7 +39,7 @@ typical prompt looks like "cd C:\Users\DELL\Desktop\Tools'
 
 Run Instructions
 -----
-We provide user with two version of products, and instrution for this two version is a little bit different.
+We provide users with two version of products, and instrution for this two version is a little bit different.
 You can check the run instructions by video tutorials for each versions.
 Before running each version, please check the requirements.txt.
 
