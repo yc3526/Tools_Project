@@ -50,10 +50,10 @@ Before running each version, please check the requirements.txt.
         
         
 **Version two:** 
-Please check the requirements!
-Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it! 
+Please check the requirements.  
+Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it. Mac is suggested. 
 
-****Step one might not be necessary. When there is an error show up when performing the following steps, you need to perform step 1.****
+****Step 1 might not be necessary. Perform step 1 only when an error pops up during step 2 to 7.****
 1) Go to where sudokuextract package is located(typical directory looks like: '/Applications/anaconda/lib/python3.6/site-packages/sudokuextract/imgproc' for mac machine). Then open the folder named 'imgproc' and change the blob.py in line 51 from 'bimg = (-binary_erosion(bimg))' to 'bimg = (~binary_erosion(bimg))'
 2) Run the Suduku_Project_V2.ipynb and wait until a new window open. Remember to check whether the new window is already available behind the existing working window.
 3) Access the service with password 0426 (a meaningful number for one of our group member).
