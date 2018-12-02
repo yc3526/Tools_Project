@@ -51,6 +51,7 @@ Version one:
 
 
 Version two: 
+
 Remember to check the requirement!
 
 Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it!
