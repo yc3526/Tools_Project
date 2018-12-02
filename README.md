@@ -35,6 +35,8 @@ Before running each version, please check the requirement_v1.txt or requirement_
 
 Version one:
 1) open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy. This directory will be the place where MNIST handwritten digit database will be downloaded during implementing the code.
+2) download two files in googledrive folder "MNIST_Dataset" into the same directory.
+*Previously this step is not necessary. But when , the MNIST website is not avai 
 2) Run the Suduku_Project_V1.ipynb and wait until a new window open (might cost some time since we need to download the tranning set and train the KNN model). Remember to check whether the new window is already available behind the existing working window.
 3) Access the service with password 0426 (a meaningful number for one of our group member).
 4) Choose to import image by click on "load image" or just manually type numbers of the initial table.
