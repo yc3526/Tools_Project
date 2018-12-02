@@ -50,16 +50,14 @@ Before running each version, please check the requirements.txt.
         
         
 **Version two:** 
-
-Remember to check the requirement!
-
-Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it!
+Please check the requirements!
+Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it! 
 
 ****Step one might not be necessary. When there is an error show up when performing the following steps, you need to perform step 1.****
-1) go to where sudokuextract package is located(typical directory looks like: '/Applications/anaconda/lib/python3.6/site-packages/sudokuextract/imgproc' for mac machine). Then open the folder name 'imgproc' and change the blob.py in line 51 from 'bimg = (-binary_erosion(bimg))' to 'bimg = (~binary_erosion(bimg))'
+1) Go to where sudokuextract package is located(typical directory looks like: '/Applications/anaconda/lib/python3.6/site-packages/sudokuextract/imgproc' for mac machine). Then open the folder named 'imgproc' and change the blob.py in line 51 from 'bimg = (-binary_erosion(bimg))' to 'bimg = (~binary_erosion(bimg))'
 2) Run the Suduku_Project_V2.ipynb and wait until a new window open. Remember to check whether the new window is already available behind the existing working window.
 3) Access the service with password 0426 (a meaningful number for one of our group member).
 4) Choose to import image by click on "load image" or just manually type numbers of the initial table.
-5) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
+5) Image recogniton might cost some time, and when recogniton result is returned, you can check whether recogniton is correct or correct them by hand.
 6) Click the "where amazing happen!" button and wait a few seconds for the final result.
 7) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)
