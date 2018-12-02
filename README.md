@@ -45,11 +45,8 @@ Before running each version, please check the requirements.txt.
 8) Click the "where amazing happen!" button and wait a few seconds for the final result.
 9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)  
   
-    
-      
-        
-        
-**Version two:** 
+  
+**Version two:**   
 Please check the requirements.  
 Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it. Mac is suggested. 
 
