@@ -15,6 +15,7 @@ Contents?
 ----
 **Transform the image into dataframe:**  
 We actually have two versions of Image Recognition.
+
 Version one (by KNN trainning on MNIST handwritten digit database):
 Remove all the frames in the image and segment all the digits into 9*9 different boxes. Then build up a K-Nearest Neighbours model to    recognize each digit and convert back to a dataframe.Since the trainning set is handwritten numbers, the accuracy is not very high.
 
