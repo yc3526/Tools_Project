@@ -28,9 +28,19 @@ After we finish image recognition process, we now have input numbers given by th
 **Create GUI interface:**  
 We applied the tkinter package to create serveral windows for image import and optimal solution output.
 
+Installation Instructions
+-----
+1) Clone the repo
+2) Open the CMD on windows machine or the Terminal application on MAC machine, change the directory into where the repo is locationed.
+typical prompt looks like "cd C:\Users\DELL\Desktop\Tools'
+3) enter the following prompt into the CMD or Terminal allication: pip install -r requirements.txt
+4) windows machine might have troubles installing scikit-image<0.12.0. But that trouble only affect the version two product.
+
+
 Run Instructions
 -----
 We provide user with two version of products, and instrution for this two version is a little bit different.
+You can check the run instructions by video tutorials for each versions.
 Before running each version, please check the requirements.txt.
 
 **Version one:**
