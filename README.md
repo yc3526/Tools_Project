@@ -33,7 +33,7 @@ Run Instructions
 We provide user with two version of products, and instrution for this two version is a little bit different.
 Before running each version, please check the requirements.txt.
 
-Version one:
+**Version one:**
 1) Clone or downoad the master branch to your own machine.
 2) open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy where you clone the branch and where 'Suduku_Project_V1.ipynb','Suduku_Project_V2.ipynb' is located. 
 3) download the rar file in googledrive folder "MNIST_Dataset" with the link https://drive.google.com/drive/folders/1YQe0A5pH4Yg1aw2RWtnA0FYLqv0f4Spy?usp=sharing into the same directory and unzip it. Keep on opening the unzip file until you see two folder named 'mldata' and 'mnist.pkl', move the two folder into the master branch directory where 'Suduku_Project_V1.ipynb','Suduku_Project_V2.ipynb' is located.  
@@ -43,14 +43,13 @@ Version one:
 6) Choose to import image by click on "load image" or just manually type numbers of the initial table. (you can try the test.jpg we provided)
 7) Image recogniton might cost some time, and when recogniton result is returned, you can check whether recogniton is correct and correct them by hand!!! Accuracy might not be very high!
 8) Click the "where amazing happen!" button and wait a few seconds for the final result.
-9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)
-
-
-
-
-
-
-Version two: 
+9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)  
+  
+    
+      
+        
+        
+**Version two:** 
 
 Remember to check the requirement!
 
