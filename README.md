@@ -31,7 +31,7 @@ We applied the tkinter package to create serveral windows for image import and o
 Run Instructions
 -----
 We provide user with two version of products, and instrution for this two version is a little bit different.
-Before running each version, please check the requirement_v1.txt or requirement_v2.txt for each version seperately.
+Before running each version, please check the requirements.txt.
 
 Version one:
 1) Clone or downoad the master branch to your own machine.
