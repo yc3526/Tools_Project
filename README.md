@@ -45,6 +45,11 @@ Version one:
 8) Click the "where amazing happen!" button and wait a few seconds for the final result.
 9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)
 
+
+
+
+
+
 Version two: 
 Remember to check the requirement!
 
