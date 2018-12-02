@@ -4,7 +4,7 @@ Sudoku Solver
 Group Name and Section
 ----
 Group Name: Sudoku Experts  
-Section: 001
+Section: 001  
 Group Member: Yingxiang Chen (yc3526), Zihan Yang(zy2331), Changqian Liu(cl3771), Yiqiang Lu(yl4025)
 
 What is it?
@@ -17,7 +17,7 @@ Contents?
 We actually have two versions of Image Recognition.
 
 Version one (by KNN trainning on MNIST handwritten digit database):
-Remove all the frames in the image and segment all the digits into 9*9 different boxes. Then build up a K-Nearest Neighbours model to    recognize each digit and convert back to a dataframe.Since the trainning set is handwritten numbers, the accuracy is not very high. It's the best we can get.
+Remove all the frames in the image and segment all the digits into 9*9 different boxes, then build up a K-Nearest Neighbours model to    recognize each digit and convert back to a dataframe. Because the trainning set consist of handwritten numbers, the accuracy is not very high. It's the best we can do.
 
 Version two (by existing package named Sudokuextract):
 Extract number from image by simply applying the pacakge. This version has very high accuracy in OCR.
