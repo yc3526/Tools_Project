@@ -34,15 +34,16 @@ We provide user with two version of products, and instrution for this two versio
 Before running each version, please check the requirement_v1.txt or requirement_v2.txt for each version seperately.
 
 Version one:
-1) open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy. This directory will be the place where MNIST handwritten digit database will be downloaded during implementing the code.
-2) download two files in googledrive folder "MNIST_Dataset" into the same directory.
+1) Clone or downoad the master branch to your own machine.
+2) open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy where you clone the branch. 
+3) download the rar file in googledrive folder "MNIST_Dataset" with the link https://drive.google.com/drive/folders/1YQe0A5pH4Yg1aw2RWtnA0FYLqv0f4Spy?usp=sharing into the same directory and unzip it. Keep on open the unzip file until you see two folder named 'mldata' and 'mnist.pkl', move the two folder into the master branch directory.
 *Previously this step is not necessary. But when , the MNIST website is not avai 
-2) Run the Suduku_Project_V1.ipynb and wait until a new window open (might cost some time since we need to download the tranning set and train the KNN model). Remember to check whether the new window is already available behind the existing working window.
-3) Access the service with password 0426 (a meaningful number for one of our group member).
-4) Choose to import image by click on "load image" or just manually type numbers of the initial table.
-5) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
-6) Click the "where amazing happen!" button and wait a few seconds for the final result.
-7) If the result output infeasible, then then this Sudoku problem is Wrong(We promised!)
+4) Run the Suduku_Project_V1.ipynb and wait until a new window open (might cost some time since we need to download the tranning set and train the KNN model). Remember to check whether the new window is already available behind the existing working window.
+5) Access the service with password 0426 (a meaningful number for one of our group member).
+6) Choose to import image by click on "load image" or just manually type numbers of the initial table.
+7) Image recogniton might cost some time, and when recogniton result came, you can check whether recogniton is correct and correct them by hand
+8) Click the "where amazing happen!" button and wait a few seconds for the final result.
+9) If the result output infeasible, then then this Sudoku problem is Wrong(We promised!)
 
 Version two:
 1) Run the Suduku_Project_V2.ipynb and wait until a new window open. Remember to check whether the new window is already available behind the existing working window.
