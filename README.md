@@ -34,6 +34,7 @@ We provide user with two version of products, and instrution for this two versio
 Before running each version, please check the requirements.txt.
 
 **Version one:**
+**Tutorial**:https://drive.google.com/file/d/1-m1LGmAonfDfYh7BW7nJmpLk0uJ1vxne/view?usp=sharing
 1) Clone or downoad the master branch to your own machine.
 2) Open the file named Suduku_Project_V1.ipynb and change the data_home directory in line 23 to your own directioy where you clone the branch and where 'Suduku_Project_V1.ipynb','Suduku_Project_V2.ipynb' is located. 
 3) Download the rar file in googledrive folder "MNIST_Dataset" with the link https://drive.google.com/drive/folders/1YQe0A5pH4Yg1aw2RWtnA0FYLqv0f4Spy?usp=sharing into the same directory and unzip it. Keep on opening the unzip file until you see two folder named 'mldata' and 'mnist.pkl', move the two folder into the master branch directory where 'Suduku_Project_V1.ipynb','Suduku_Project_V2.ipynb' is located.  
@@ -46,7 +47,8 @@ Before running each version, please check the requirements.txt.
 9) If the result output infeasible, then this Sudoku problem is Wrong(We promised!)  
   
   
-**Version two:**   
+**Version two:**
+**Tutorial**:https://drive.google.com/file/d/16iQK6VadtLz8DWWCPiMrcotPWLIbKutM/view?usp=sharing
 Please check the requirements.  
 Windows machine might have troubles creating the wheel for scikit-image<0.12.0 when installing it. Mac is suggested. 
 
